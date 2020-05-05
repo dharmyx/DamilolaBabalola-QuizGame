@@ -1,6 +1,6 @@
 # DamilolaBabalola-QuizGame
 
-Building a responsive quiz game with HTML, CSS and Javascript.
+Building a responsive quiz game with HTML and Css Only.
 
 Instructions:
 
