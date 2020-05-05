@@ -1,0 +1,29 @@
+*** Questions and Options ***
+
+q1:     How do you call a function named "myFunction"?
+    option1:    myFunction()
+    option2:    call myFunction()
+    option3:    call function myFunction()
+    option4:    MyFunction()
+    option5:    all of the above;
+
+q2:     How do you write an IF statement in JavaScript?
+    option1:    if i == 5 then
+    option2:    if (i == 5)
+    option3:    if i = 5
+    option4:    if i = 5 then
+    option5:    if 1 = 5
+
+q3:     How does a FOR loop start?
+    option1:    for (i = 0; i <= 5)
+    option2:    for (i <= 5; i++)
+    option3:    for i = 1 to 5
+    option4:    for (i = 0; i <= 5; i++)
+    option5:    none of the above
+
+q4:     Which of the following options is not correct?
+    option1:    let = 'John'
+    option2:    const = ('Eniola')
+    option3:    var = x
+    option4:    all of the above
+    option5:    none of the above
