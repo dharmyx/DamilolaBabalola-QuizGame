@@ -1,29 +1,36 @@
 *** Questions and Options ***
 
-q1:     How do you call a function named "myFunction"?
-    option1:    myFunction()
-    option2:    call myFunction()
-    option3:    call function myFunction()
-    option4:    MyFunction()
-    option5:    all of the above;
+q1:     In California you can not legally buy a mousetrap without having a what?
+    option1:    Mouse Permit
+    option2:    Hunting License
+    option3:    Exterminator approved license
+    option4:    Gun
+A:  Ooption2
 
-q2:     How do you write an IF statement in JavaScript?
-    option1:    if i == 5 then
-    option2:    if (i == 5)
-    option3:    if i = 5
-    option4:    if i = 5 then
-    option5:    if 1 = 5
+q2:     Coprastastaphobia is the fear of what?
+    option1:    Masturbation
+    option2:    Ovulation
+    option3:    Constipation
+    option4:    Ejaculation
+A:  option3
 
-q3:     How does a FOR loop start?
-    option1:    for (i = 0; i <= 5)
-    option2:    for (i <= 5; i++)
-    option3:    for i = 1 to 5
-    option4:    for (i = 0; i <= 5; i++)
-    option5:    none of the above
+q3:     Who invented the word "VOMIT"?
+    option1:    William Shakespeare
+    option2:    Abraham Lincoln
+    option3:    Jack Scofield
+    option4:    Wole Soyinka
+A:  option1
 
-q4:     Which of the following options is not correct?
-    option1:    let = 'John'
-    option2:    const = ('Eniola')
-    option3:    var = x
-    option4:    all of the above
-    option5:    none of the above
+q4:     What is the collective noun for a group of unicorns?
+    option1:    Zeedonk
+    option2:    Uniconium
+    option3:    A blessing
+    option4:    Scoobert Doo
+A:  option3
+
+q5:     Whose face was said to have launched 1000 ships?
+    option1:    Reza of Persopolis
+    option2:    Yu of Bagan
+    option3:    Bebby of AngkorWat
+    option4:    Helen of Troy
+A:  option4

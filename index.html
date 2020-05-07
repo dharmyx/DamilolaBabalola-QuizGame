@@ -9,28 +9,41 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-
+        <!--Intro Section-->
+        <div class="intro">
+            <h2>TRIVIA QUIZ APP</h2>
+        </div>
+        <div class="score-display">
+            <h2>Your score: <span class="percentage2"></span></h2>
+        </div>
         <div class="quiz-container">
             <div class="question-number">
-                <h3>Question <span class="question-num-value">1</span> of 3</h3>
+                <h3>Question <span class="question-num-value">1</span> in <span class="total-question"></span></h3>
             </div>
             <div class="question">
-                How do you call a function named "myFunction"?
+                
             </div>
             <div class="options">
-                <div id="0" class="option1 correct">myFunction()</div>
-                <div id="1" class="option2 wrong">call myFunction()</div>
-                <div id="2" class="option3 wrong">call function myFunction()</div>
-                <div id="3" class="option4 wrong">MyFunction()</div>
-                <div id="4" class="option5 wrong">all of the above</div>
+                <div id="0" class="option1" onclick="check(this)"></div>
+                <div id="1" class="option2" onclick="check(this)"></div>
+                <div id="2" class="option3" onclick="check(this)"></div>
+                <div id="3" class="option4" onclick="check(this)"></div>
             </div>
             <div class="button">
-                <button type="button" class="btn">Next</button>
+                <button type="button" class="btn" onclick="next()">Next</button>
             </div>
             <div class="answer-tracker">
-                <div class="correct"></div>
-                <div class="wrong"></div>
-                <div></div>
+                
+            </div>
+        </div>
+        <h5>Designed by Damilola Babalola | Start.NG 2020</h5>
+
+        <div class="quiz-over">
+            <div class="box">
+            <h2>You got <span class="correct-answers"></span> out of <span class="total-question2"></span> answers correct! <br>
+                That's <span class="percentage"></span>
+            </h2>
+            <button type="button1" onclick="tryAgain()">Try Again</button>
             </div>
         </div>
 
